@@ -1,0 +1,7 @@
+c:\users\shahe\source\repos\ReadingFiles\ReadingFiles\bin\Debug\ReadingFiles.exe.config
+c:\users\shahe\source\repos\ReadingFiles\ReadingFiles\bin\Debug\ReadingFiles.exe
+c:\users\shahe\source\repos\ReadingFiles\ReadingFiles\bin\Debug\ReadingFiles.pdb
+c:\users\shahe\source\repos\ReadingFiles\ReadingFiles\obj\Debug\ReadingFiles.csprojAssemblyReference.cache
+c:\users\shahe\source\repos\ReadingFiles\ReadingFiles\obj\Debug\ReadingFiles.csproj.CoreCompileInputs.cache
+c:\users\shahe\source\repos\ReadingFiles\ReadingFiles\obj\Debug\ReadingFiles.exe
+c:\users\shahe\source\repos\ReadingFiles\ReadingFiles\obj\Debug\ReadingFiles.pdb
